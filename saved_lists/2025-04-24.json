@@ -1,0 +1,131 @@
+{
+  "tasks": {
+    "learn about how to create a PRD and effectively integrate it into cursor.": {
+      "subtasks": [
+        "1. Research what a PRD (Product Requirements Document) is and its key components.",
+        "2. Create a template for your PRD including sections for goals, features, user stories, and acceptance criteria.",
+        "3. Integrate the PRD into your workflow by setting up a folder on your computer or cloud storage for easy access.",
+        "4. Schedule regular reviews of the PRD to track progress and make necessary adjustments.",
+        "5. Utilize project management tools like Trello or Asana to break down PRD tasks into smaller actionable steps."
+      ],
+      "completed": false
+    },
+    "learn about PRD's": {
+      "subtasks": [
+        "1. Research online sources like articles, blogs, or videos about PRD's (Personality-Related Disorders).",
+        "2. Take notes while studying to help retain information better.",
+        "3. Create flashcards or a summary sheet to review and reinforce key points about PRD's.",
+        "4. Discuss what you've learned with someone else to solidify your understanding and clarify any doubts."
+      ],
+      "completed": false
+    },
+    "learn about python": {
+      "subtasks": [
+        "1. Start by finding beginner-friendly resources like online tutorials, books, or courses on Python.",
+        "2. Begin with the basics such as understanding variables, data types, and simple operations in Python.",
+        "3. Practice writing simple Python scripts or programs to reinforce your learning.",
+        "4. Explore more advanced topics like functions, loops, and libraries/modules to enhance your Python skills.",
+        "5. Engage with online communities or forums to ask questions, seek help, and share your progress with Python."
+      ],
+      "completed": false
+    },
+    "Go through more chapters in the learn go with tests github book": {
+      "subtasks": [
+        "1. Open the \"Learn Go with Tests\" GitHub repository.",
+        "2. Navigate to the \"chapters\" or \"book\" directory in the repository.",
+        "3. Select the next chapter you want to go through.",
+        "4. Read through the content of the chapter, following along with the examples and exercises.",
+        "5. Take notes or practice coding examples to reinforce your understanding."
+      ],
+      "completed": false
+    },
+    "eat food": {
+      "subtasks": [
+        "1. Decide on a meal or snack you want to eat.",
+        "2. Gather the necessary ingredients and cooking utensils.",
+        "3. Prepare the meal or snack following a simple recipe or instructions.",
+        "4. Sit down and enjoy your food, focusing on eating without distractions."
+      ],
+      "completed": false
+    },
+    "cook food": {
+      "subtasks": [
+        "1. Choose a simple recipe or decide on a meal to prepare.",
+        "2. Make a list of ingredients needed for the recipe.",
+        "3. Prepare the ingredients by washing, chopping, and measuring them.",
+        "4. Follow the recipe instructions to cook the meal.",
+        "5. Serve and enjoy your cooked food."
+      ],
+      "completed": false
+    },
+    "go for a walk": {
+      "subtasks": [
+        "1. Put on comfortable walking shoes and appropriate clothing for the weather.",
+        "2. Grab a water bottle, headphones, and any other essentials you may need.",
+        "3. Choose a walking route or destination that you enjoy or find relaxing.",
+        "4. Set a timer for how long you want to walk or decide on a specific distance to cover.",
+        "5. Start walking at a comfortable pace, focusing on your surroundings and enjoying the fresh air."
+      ],
+      "completed": false
+    }
+  },
+  "subtasks_status": {
+    "learn about how to create a PRD and effectively integrate it into cursor.": {
+      "1. Research what a PRD (Product Requirements Document) is and its key components.": false,
+      "2. Create a template for your PRD including sections for goals, features, user stories, and acceptance criteria.": false,
+      "3. Integrate the PRD into your workflow by setting up a folder on your computer or cloud storage for easy access.": false,
+      "4. Schedule regular reviews of the PRD to track progress and make necessary adjustments.": false,
+      "5. Utilize project management tools like Trello or Asana to break down PRD tasks into smaller actionable steps.": false
+    },
+    "learn about PRD's": {
+      "1. Research online sources like articles, blogs, or videos about PRD's (Personality-Related Disorders).": false,
+      "2. Take notes while studying to help retain information better.": false,
+      "3. Create flashcards or a summary sheet to review and reinforce key points about PRD's.": false,
+      "4. Discuss what you've learned with someone else to solidify your understanding and clarify any doubts.": false
+    },
+    "learn about python": {
+      "1. Start by finding beginner-friendly resources like online tutorials, books, or courses on Python.": false,
+      "2. Begin with the basics such as understanding variables, data types, and simple operations in Python.": false,
+      "3. Practice writing simple Python scripts or programs to reinforce your learning.": false,
+      "4. Explore more advanced topics like functions, loops, and libraries/modules to enhance your Python skills.": false,
+      "5. Engage with online communities or forums to ask questions, seek help, and share your progress with Python.": false
+    },
+    "Go through more chapters in the learn go with tests github book": {
+      "1. Open the \"Learn Go with Tests\" GitHub repository.": false,
+      "2. Navigate to the \"chapters\" or \"book\" directory in the repository.": false,
+      "3. Select the next chapter you want to go through.": false,
+      "4. Read through the content of the chapter, following along with the examples and exercises.": false,
+      "5. Take notes or practice coding examples to reinforce your understanding.": false
+    },
+    "eat food": {
+      "1. Decide on a meal or snack you want to eat.": false,
+      "2. Gather the necessary ingredients and cooking utensils.": false,
+      "3. Prepare the meal or snack following a simple recipe or instructions.": false,
+      "4. Sit down and enjoy your food, focusing on eating without distractions.": false
+    },
+    "cook food": {
+      "1. Choose a simple recipe or decide on a meal to prepare.": false,
+      "2. Make a list of ingredients needed for the recipe.": false,
+      "3. Prepare the ingredients by washing, chopping, and measuring them.": false,
+      "4. Follow the recipe instructions to cook the meal.": false,
+      "5. Serve and enjoy your cooked food.": false
+    },
+    "go for a walk": {
+      "1. Put on comfortable walking shoes and appropriate clothing for the weather.": false,
+      "2. Grab a water bottle, headphones, and any other essentials you may need.": false,
+      "3. Choose a walking route or destination that you enjoy or find relaxing.": false,
+      "4. Set a timer for how long you want to walk or decide on a specific distance to cover.": false,
+      "5. Start walking at a comfortable pace, focusing on your surroundings and enjoying the fresh air.": false
+    }
+  },
+  "ranked_tasks": [
+    "learn about how to create a PRD and effectively integrate it into cursor.",
+    "learn about PRD's",
+    "learn about python",
+    "Go through more chapters in the learn go with tests github book",
+    "eat food",
+    "cook food",
+    "go for a walk"
+  ],
+  "saved_at": "2025-04-24T16:52:31.446231"
+}
